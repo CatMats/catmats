@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi! Welcome to my Profile!
+My Name is Mateo Castillo, I'm Currently a Senior (And about to graduate) from UIC With a Strong interest in honing skills of Data Science, I've worked with peers and have been eager to find any internships best suited for it,
+I'm also willing to adapt to any sort of new programming language or concepts that can be focused on too!
+
+Currently trying to find someplace to work, so I'd be more than happy to provide the best i can give if you pick me up, and adapt to your culture too!
+
+- 😄 Pronouns: He/Him
+- 👯 I’m looking to collaborate on Any sort of projects or companies willing for data analysis or processing via Pandas or SQL
+- 🌱 I'm Learning to hone skills on Python with some Javascript
+- 🔭 I'm currently working on reutilizing previous programs made for classes to be more efficient.
+
 
 <!--
 **CatMats/catmats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
